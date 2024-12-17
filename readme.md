@@ -1,4 +1,4 @@
-<h1 align="center">Hola, me llamo Pablo Sanhueza</h1>
+<h1 align="center">Pablo Sanhueza</h1>
 <h3 align="center">Frontend Angular developer</h3>
 
 - 📫 Correo: **pablosanhuezaaa@gmail.com**
