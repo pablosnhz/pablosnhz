@@ -10,7 +10,7 @@
 ---
 
 ### 📝 Resumen
-Desarrollador orientado a resultados con experiencia sólida en **Angular** y arquitectura de backend con **NestJS**. Me enfoco en la creación de soluciones escalables, optimización de productos y aplicación de buenas prácticas (Clean Code). Experto en integrar servicios de infraestructura como **AWS**, **Docker** y **Redis** para potenciar el rendimiento de aplicaciones empresariales.
+Desarrollador orientado a resultados con experiencia sólida en **Angular** y arquitectura de backend con **NestJS**. Me enfoco en la creación de soluciones escalables, optimización de productos y aplicación de buenas prácticas (Clean Code). Integración de servicios de infraestructura como **AWS**, **Docker** y **Redis** para potenciar el rendimiento de aplicaciones.
 
 ---
 
