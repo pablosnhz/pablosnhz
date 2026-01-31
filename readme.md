@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://pablosanhueza.netlify.app/" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/pablosanhuezaweb/" target="_blank">🔗 LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/pablosanhuezadev/" target="_blank">🔗 LinkedIn</a> • 
   <a href="mailto:pablosanhuezaaa@gmail.com">📧 Email</a>
 </p>
 
